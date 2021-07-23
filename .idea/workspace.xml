@@ -47,8 +47,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f40628b-d841-4719-9b7d-59d54ab9ff4f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="2f40628b-d841-4719-9b7d-59d54ab9ff4f" name="Default Changelist" comment="Video is Added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,12 +85,15 @@
     </option>
   </component>
   <component name="ProjectId" id="1vZfBfNL5FPBkN5wRbmZkGGhcCc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DEBUGGABLE_DEVICE" value="xiaomi-redmi_note_8_pro-z5byv8vsovmf45cm" />
     <property name="DEBUGGABLE_PROCESS" value="com.example.news" />
     <property name="DEBUGGER_ID" value="Auto" />
@@ -184,6 +187,14 @@
       <option name="presentableId" value="Default" />
       <updated>1626774397970</updated>
     </task>
+    <task id="LOCAL-00001" summary="Video is Added">
+      <created>1627034394961</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627034394961</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +208,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Video is Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Video is Added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="735" y="257" width="440" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1627024814222">
@@ -215,6 +231,14 @@
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
     <state x="743" y="296" width="424" height="484" key="FileChooserDialogImpl/0.24.1920.1032@0.24.1920.1032" timestamp="1627025812968" />
+    <state x="823" y="438" key="Github.ShareDialog" timestamp="1627034124688">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state x="823" y="438" key="Github.ShareDialog/0.24.1920.1032@0.24.1920.1032" timestamp="1627034124688" />
+    <state x="535" y="207" width="840" height="661" key="Github.UntrackedFilesDialog" timestamp="1627034148286">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state x="535" y="207" width="840" height="661" key="Github.UntrackedFilesDialog/0.24.1920.1032@0.24.1920.1032" timestamp="1627034148286" />
     <state width="1874" height="359" key="GridCell.Tab.0.bottom" timestamp="1627033882142">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
@@ -231,9 +255,17 @@
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
     <state width="1874" height="359" key="GridCell.Tab.0.right/0.24.1920.1032@0.24.1920.1032" timestamp="1627033882142" />
+    <state x="100" y="120" width="1720" height="836" key="ShowDiffWithBranchDialog" timestamp="1627034934360">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state x="100" y="120" width="1720" height="836" key="ShowDiffWithBranchDialog/0.24.1920.1032@0.24.1920.1032" timestamp="1627034934360" />
     <state x="804" y="451" width="302" height="174" key="VCS.ChangelistChooser" timestamp="1627033538108">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
     <state x="804" y="451" width="302" height="174" key="VCS.ChangelistChooser/0.24.1920.1032@0.24.1920.1032" timestamp="1627033538108" />
+    <state x="555" y="274" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1627034406533">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state x="555" y="274" width="800" height="528" key="Vcs.Push.Dialog.v2/0.24.1920.1032@0.24.1920.1032" timestamp="1627034406533" />
   </component>
 </project>
